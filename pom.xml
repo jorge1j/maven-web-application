@@ -95,10 +95,10 @@
 	                          
    
 	<distributionManagement>
-	    <repository>
+	    <repository>               
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://44.200.148.11:8081/repository/firstbank-releases/</url>
+	      <url> http://44.200.148.11:8081/repository/firstbank-fe-releases/</url>
 	    </repository>
 	                         
 	    <snapshotRepository>
